@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29324.140
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceSignalR.Akka.Web", "ConferenceSignalR.Akka.Web\ConferenceSignalR.Akka.Web.csproj", "{98D8B00D-8C99-4E5D-B667-72DAF2375293}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConferenceSignalR.Akka.ActorModels", "ConferenceSignalR.Akka.ActorModels\ConferenceSignalR.Akka.ActorModels.csproj", "{DCD252D6-3F27-4049-850A-B0D9DA32EAD8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{98D8B00D-8C99-4E5D-B667-72DAF2375293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98D8B00D-8C99-4E5D-B667-72DAF2375293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98D8B00D-8C99-4E5D-B667-72DAF2375293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98D8B00D-8C99-4E5D-B667-72DAF2375293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD252D6-3F27-4049-850A-B0D9DA32EAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD252D6-3F27-4049-850A-B0D9DA32EAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD252D6-3F27-4049-850A-B0D9DA32EAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD252D6-3F27-4049-850A-B0D9DA32EAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1EF4DE73-F285-4465-8766-9479759D3E30}
+	EndGlobalSection
+EndGlobal
